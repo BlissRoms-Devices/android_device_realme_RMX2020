@@ -1,20 +1,20 @@
 [{
-		"repository": "vendor_realme_RMX2020",
+		"repository": "BlissRoms-Devices/proprietary_vendor_realme_RMX2020",
 		"target_path": "vendor/realme/RMX2020",
-		"branch": "thirteen",
-		"remote": "SuperiorOS-Devices"
+		"branch": "typhoon",
+		"remote": "github"
 	},
 	{
-		"repository": "kernel_realme_RMX2020",
+		"repository": "BlissRoms-Devices/android_kernel_realme_RMX2020",
 		"target_path": "kernel/realme/RMX2020",
-		"branch": "thirteen",
-		"remote": "SuperiorOS-Devices"
+		"branch": "typhoon",
+		"remote": "github"
 	},
 	{
-		"repository": "vendor_realme_RMX2020-ims",
+		"repository": "ArrowOS-Devices/android_vendor_realme_RMX2020-ims",
 		"target_path": "vendor/realme/RMX2020-ims",
-		"branch": "thirteen",
-		"remote": "SuperiorOS-Devices"
+		"branch": "arrow-13.1",
+		"remote": "github"
 	},
 	{
 	    "repository": "ArrowOS/android_device_mediatek_sepolicy_vndr",

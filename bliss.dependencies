@@ -5,9 +5,9 @@
 		"remote": "github"
 	},
 	{
-		"repository": "BlissRoms-Devices/android_kernel_realme_RMX2020",
+		"repository": "ArrowOS-Devices/android_kernel_realme_RMX2020",
 		"target_path": "kernel/realme/RMX2020",
-		"branch": "typhoon",
+		"branch": "arrow-13.1",
 		"remote": "github"
 	},
 	{
